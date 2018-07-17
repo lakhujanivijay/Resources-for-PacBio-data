@@ -1,6 +1,7 @@
-## Resources-for-PacBio-data
+## Pacbio-Brick by Brick!
 A handy list of tools, blogs, forums, resources and much more dedicated to Pacbio data analysis.
 
+![alt text](https://thumbs.dreamstime.com/b/hand-sketch-mason-vector-illustration-71014455.jpg "Brick by Brick")
 
 ### Which quality score encoding does PacBio use?
 
