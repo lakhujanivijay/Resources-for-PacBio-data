@@ -34,4 +34,4 @@ There are many fasta files in the canu output directory. What are those?
 
 Though out of date, and will probably move when it is updated, the relevant section in the docs is http://canu.readthedocs.io/en/latest/quick-start.html#find-the-output
 
-https://github.com/marbl/canu/issues/101
+> Source: [Canu github](https://github.com/marbl/canu/issues/286#issuecomment-258876724)
