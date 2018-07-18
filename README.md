@@ -7,10 +7,7 @@ A handy list of tools, blogs, forums, resources and much more dedicated to Pacbi
 
 Link to Youtube video animation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=y3OOUhQGFeE
-" target="_blank"><img src="http://img.youtube.com/vi/y3OOUhQGFeE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border=
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=y3OOUhQGFeE" target="_blank"><img src="http://img.youtube.com/vi/y3OOUhQGFeE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Which quality score encoding does PacBio use?
 
