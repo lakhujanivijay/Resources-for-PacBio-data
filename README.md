@@ -12,7 +12,7 @@ Link to Youtube video animation
 ---
 
 
-#### Which quality score encoding does PacBio use?
+#### :nut_and_bolt: Which quality score encoding does PacBio use?
 
 PacBio does use `PHRED 33`, but it turns out the question may be irrelevant for the newer PacBio Sequel Sequencer, because it reports all base qualities as `PHRED 0 (ASCII !)`. The RS-II reports `PHRED 33` quality scores.
 
@@ -24,7 +24,7 @@ As I started playing with the quality scores in my data, I realized the quality 
 
 ----
 
-#### Explanations of headers of canu assembled fasta files
+#### :nut_and_bolt: Explanations of headers of canu assembled fasta files
 
 A typical header would look like
 
@@ -45,7 +45,7 @@ Field | Description |
 ----
 
 
-#### What is covStat in the header on canu assembled fasta file?
+#### :nut_and_bolt: What is covStat in the header on canu assembled fasta file?
 
 It's the log of the ratio of the contig being unique vs it being two-copy, based on the number of reads used to form it. http://wgs-assembler.sourceforge.net/wiki/index.php/Celera_Assembler_Theory#Coverage-based_repeat_discrimination
 
@@ -55,7 +55,7 @@ Positive means more likely to be unique, negative means more likely to be repeti
 
 ----
 
-#### There are many fasta files in the canu output directory. What are those?
+#### :nut_and_bolt: There are many fasta files in the canu output directory. What are those?
 
 **contigs** will span repeats, as long as the repeat is unambiguous.
 
