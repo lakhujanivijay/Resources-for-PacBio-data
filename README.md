@@ -1,6 +1,8 @@
 ## Pacbio-Brick by Brick!
 A handy list of tools, blogs, forums, resources and much more dedicated to Pacbio data analysis.
 
+> This is under construction; at the end, everything will make sense. Keep Calm..
+
 ### Which quality score encoding does PacBio use?
 
 PacBio does use `PHRED 33`, but it turns out the question may be irrelevant for the newer PacBio Sequel Sequencer, because it reports all base qualities as `PHRED 0 (ASCII !)`. The RS-II reports `PHRED 33` quality scores.
