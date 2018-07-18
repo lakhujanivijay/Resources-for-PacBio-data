@@ -3,6 +3,16 @@ A handy list of tools, blogs, forums, resources and much more dedicated to Pacbi
 
 > This is under construction; at the end, everything will make sense. Keep Calm..
 
+#### How does Pacbio sequencing works?
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y3OOUhQGFeE/0.jpg)](https://www.youtube.com/watch?v=y3OOUhQGFeE)
+
+
+
+
+
+
+
 #### Which quality score encoding does PacBio use?
 
 PacBio does use `PHRED 33`, but it turns out the question may be irrelevant for the newer PacBio Sequel Sequencer, because it reports all base qualities as `PHRED 0 (ASCII !)`. The RS-II reports `PHRED 33` quality scores.
