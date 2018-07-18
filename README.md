@@ -29,9 +29,14 @@ A typical header would look like
 >tig######## len=<integer> reads=<integer> covStat=<float> gappedBases=<yes|no> class=<contig|bubble|unassm> suggestRepeat=<yes|no> suggestCircular=<yes|no>
 ```
 
-`len` Length of the sequence, in bp.
+Field | Description
+--- | --- | ---
+len | Length of the sequence, in bp
+1 | 2 
 
-`reads` Number of reads used to form the contig.
+ 
+
+ Number of reads used to form the contig.
 
 `covStat` The log of the ratio of the contig being unique versus being two-copy, based on the read arrival rate.  Positive values indicate more likely to be unique, while negative values indicate more likely to be repetitive.  See `Footnote 24 <http://science.sciencemag.org/content/287/5461/2196.full#ref-24>`_ in `Myers et al., A Whole-Genome Assembly of Drosophila <http://science.sciencemag.org/content/287/5461/2196.full>`_.
 
