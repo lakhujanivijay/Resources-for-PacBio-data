@@ -21,3 +21,17 @@ It's the log of the ratio of the contig being unique vs it being two-copy, based
 Positive means more likely to be unique, negative means more likely to be repetitive. It is flagging tig102 as having too many reads to be unique, based on the rest of the contigs. Given how large the contig is, this could be caused by a pile up of reads in a few repeats, or it could be indicating that this is a contaminant sequenced at higher coverage than the primary target
 
 > Source: [Canu Github](https://github.com/marbl/canu/issues/101)
+
+There are many fasta files in the canu output directory. What are those?
+
+**contigs** will span repeats, as long as the repeat is unambiguous.
+
+**unitigs** are derived from contigs. Wherever a contig end intersects the middle of another contig, the contig is split.
+
+**bubbles** are deprecated and will be removed in the next release. Treat them as contigs for now.
+
+**unassembled** contains mostly reads that failed to assemble into a contig. There will be some assembled sequences, but these will be short and nearly the same as the longest read in them.
+
+Though out of date, and will probably move when it is updated, the relevant section in the docs is http://canu.readthedocs.io/en/latest/quick-start.html#find-the-output
+
+https://github.com/marbl/canu/issues/101
