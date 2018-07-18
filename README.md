@@ -7,7 +7,7 @@ A handy list of tools, blogs, forums, resources and much more dedicated to Pacbi
 
 Link to Youtube video animation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WMZmG00uhwU" target="_blank"><img src="http://img.youtube.com/vi/WMZmG00uhwU/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WMZmG00uhwU" target="_blank"><img src="http://img.youtube.com/vi/WMZmG00uhwU/0.jpg" alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 ---
 
